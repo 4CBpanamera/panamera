@@ -2220,7 +2220,7 @@ end
 setupFurtherReach()
 
 
-local NEW_TEXTURE = "rbxassetid://128466395060514"
+local NEW_TEXTURE = "rbxassetid://81358145120405"
 
 local function lockBeam(beam)
     if not beam:IsA("Beam") then return end
